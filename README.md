@@ -4,6 +4,11 @@
 [![Downloads][pypi-downloads]][pypi-url]
 [![Gitter][gitter-image]][gitter-url]
 
+About this version
+=====
+
+This version includes additional updates to various other meta tags through which the publication date/creation date of a website can be extracted. Also there are regular expressions to extract the last-updated text from websites for both German and English text.
+
 About
 =====
 
